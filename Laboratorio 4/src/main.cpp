@@ -144,7 +144,6 @@ void loop()
   LCD.print(centena);
   LCD.print(decena);
   LCD.print(unidad);
-  LCD.print("V");
 }
 
 //***************************************************
