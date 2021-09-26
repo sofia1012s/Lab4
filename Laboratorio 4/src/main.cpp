@@ -7,7 +7,7 @@
 //Librerias
 //*****************************************************************************
 #include <Arduino.h>
-#include <LiquidCrystal.h>
+#include <LiquidCrystal.h> //libreria para LCD
 
 //*****************************************************************************
 //Definicion etiquetas
